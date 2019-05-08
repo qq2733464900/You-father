@@ -1,0 +1,6 @@
+/* components/level/level.wxss */
+.level{
+width: 80rpx;
+padding-left: 40rpx;
+padding-top: 15rpx;
+}

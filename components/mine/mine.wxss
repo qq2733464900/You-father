@@ -1,0 +1,14 @@
+/* components/mine/mine.wxss */
+.mine{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.mine>image{
+width: 50rpx;
+height: 50rpx;
+}
+.mine>text{
+font-size: 30rpx;
+}

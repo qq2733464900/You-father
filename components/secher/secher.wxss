@@ -1,0 +1,9 @@
+/* components/secher/secher.wxss */
+.secher{
+border: 1rpx solid gainsboro;
+border-radius: 10rpx;
+height: 75rpx;
+}
+.secher input{
+height: 100%;
+}

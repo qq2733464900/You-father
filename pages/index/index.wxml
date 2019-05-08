@@ -1,0 +1,10 @@
+
+<view class='box'>
+<view>
+<!-- 地区组件 -->
+      <Level></Level>     
+<!-- 搜索组件 -->
+      <secher></secher>
+</view>
+
+</view>

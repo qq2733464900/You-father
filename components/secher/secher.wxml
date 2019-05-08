@@ -1,0 +1,5 @@
+<!--components/secher/secher.wxml-->
+<view class='secher'>
+<input placeholder='输入商户名、地点、找优惠' 
+placeholder-style="font:15rpx"></input>
+</view>

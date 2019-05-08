@@ -1,0 +1,6 @@
+<!--components/level/level.wxml-->
+<view class='level'>
+  <picker >
+    北京
+  </picker> 
+</view>

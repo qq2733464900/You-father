@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "Level":"../../components/level/level",
+    "secher":"../../components/secher/secher",
+    "mine":"../../components/mine/mine"
+  }
+}
