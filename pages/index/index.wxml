@@ -5,6 +5,8 @@
       <Level></Level>     
 <!-- 搜索组件 -->
       <secher></secher>
+      <!-- 我的 -->
+      <mine></mine>
 </view>
 
 </view>
